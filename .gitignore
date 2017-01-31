@@ -15,3 +15,4 @@ npm-debug.log
 test/temp-test
 coverage/
 build
+.history
